@@ -1,2 +1,1 @@
-# DesenvolvimentoWeb1
-Códigos das aulas de desenvolvimento WEB
+Este repositório contém exercícios das aulas Web
