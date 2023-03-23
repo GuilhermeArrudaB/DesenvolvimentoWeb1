@@ -1,23 +1,23 @@
 Este repositório contém exercícios das aulas Web
 
-Aula01 - Exercicios básicos de HTML com listas e textos
-Aula02 - Manipulação de imagens e links de direcionamento
-Aula03 -
-Aula04 -
-Aula05 -
-Aula06 -
-Aula07 -
-Aula08 -
-Aula09 -
-Aula10 -
-Aula11 -
-Aula12 -
-Aula13 -
-Aula14 -
-Aula15 -
-Aula16 -
-Aula17 -
-Aula18 -
-Aula19 -
-Aula20 -
-Aula21 -
+Aula01 - Exercicios básicos de HTML com listas e textos<br>
+Aula02 - Manipulação de imagens e links de direcionamento<br>
+Aula03 -<br>
+Aula04 -<br>
+Aula05 -<br>
+Aula06 -<br>
+Aula07 -<br>
+Aula08 -<br>
+Aula09 -<br>
+Aula10 -<br>
+Aula11 -<br>
+Aula12 -<br>
+Aula13 -<br>
+Aula14 -<br>
+Aula15 -<br>
+Aula16 -<br>
+Aula17 -<br>
+Aula18 -<br>
+Aula19 -<br>
+Aula20 -<br>
+Aula21 -<br>
