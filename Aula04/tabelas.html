@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Tabelas</title>
+	<link href="Css/style1.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<h1 align="center">Criando tabelas com HTML</h1>
+
+	<table border="1" align="center">
+
+		<!-- <tr> = Linha -->
+		<!-- <td> = Coluna -->
+		<!-- <coldspan> = Juntar 2 colunas -->
+		<!-- <rowspan> = Juntar 2 linhas -->
+
+
+		<!-- Cabeçalho, primeira linha com títulos -->
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Telefone</th>
+				<th>Curso</th>
+				<th>Cidade</th>
+			</tr>
+		</thead>
+		<tbody>
+		<!-- Conteúdo primeira linha -->
+			<tr>
+				<td>Victor</td>
+				<td>51990905050</td>
+				<td rowspan="2">ADS</td>
+				<td>Porto alegre</td>
+			</tr>
+		<!-- Conteúdo segunda linha -->	
+			<tr>
+				<td>Rafael</td>
+				<td>51990906060</td>
+				<td>Canoas</td>
+			</tr>
+		<!-- Conteúdo terceiro linha -->	
+			<tr>
+				<td>João</td>
+				<td>51990907070</td>
+				<td>Redes</td>
+				<td>Porto alegre</td>
+			</tr>
+		<!-- Conteúdo quarta linha -->
+			<tr>
+				<td>Fernanda</td>
+				<td>51990908080</td>
+				<td>SPI</td>
+				<td>Canoas</td>
+			</tr>
+		</tbody>
+		<!-- Rodapé da tabela -->
+		<tfoot>
+			<tr>
+				<td colspan="4" align="center">
+					Tabela de alunos de 2023
+				</td>
+			</tr>
+		</tfoot>
+	</table>
+
+</body>
+</html>
