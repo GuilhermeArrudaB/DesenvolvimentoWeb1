@@ -1,0 +1,49 @@
+body{
+	font-family:arial, sans-serif; 
+
+}
+#info{
+	text-align:center;
+	font-size: 36px;
+
+}
+#info h2{
+
+	color: red;
+}
+#info p{
+
+	font-size: 16px;
+	color: orange
+
+}
+h2{
+	color:purple;
+	text-align:center;
+
+}
+.destaque{
+	color:blue;
+	font-family: helvetica, arial;
+	font-size: 48px;
+	font-style: italic;
+	text-decoration: underline;
+}
+h2 strong{
+
+	background-color: yellow;
+}
+.exemplo h2 strong{
+
+	background-color: black;
+}
+.img-div{
+	text-align: center;
+	max-width:800px;
+    width: auto;
+}
+.img-div img{
+	text-align: center;
+	width: 800px;
+	margin-left: 422px;
+}
