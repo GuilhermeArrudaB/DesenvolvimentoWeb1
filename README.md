@@ -5,6 +5,7 @@ Aula02 - Manipulação de imagens e links de direcionamento<br>
 Aula03 - Continuação do conteúdo da aula 02<br>
 Aula04 - Criação de tabelas e um pouco de CSS<br>
 Aula05 - Primeira Aula de CSS, explorando estilos<br>
+Avaliação 1 - Criar um site assim como no exemplo seguindo os requisitos<br>
 Aula06 -<br>
 Aula07 -<br>
 Aula08 -<br>
