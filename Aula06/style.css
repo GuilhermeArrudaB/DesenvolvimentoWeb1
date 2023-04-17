@@ -1,0 +1,59 @@
+.titulo{
+
+	color: blue;
+	width: 70%;
+	height: 70%;
+	word-spacing: 20px;
+	letter-spacing: 20px;
+	display: inline;
+}
+.noticia img{
+	vertical-align: bottom;
+
+}
+.noticia{
+	text-align: justify;
+	background-color: #cccc;
+	width: 50%;
+	height: 50%;
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	margin-top: 40px;
+	margin-right: ;
+	margin-left: ;
+	margin-bottom: ; 
+	/* O margin substitui os margin-top, left, right e bottom */
+	/* Margin: 50px -> geral
+	   Margin: 0px -> top e baixo, 20px esquerda e direita; 
+	   Margin: top, right, bottom, left; -->ordem dos valores
+	   Margin-left: auto; -> coloca o máximo para esquerda
+	   Margin-right: auto; -> coloca o máximo para direita
+	   Os dois juntos acaba deixando o bloco centralizado
+
+
+	*/
+	margin: 50px;
+}
+h2 span{
+	vertical-align: sub;
+
+}
+h1 span{
+	vertical-align: super;
+}
+.bloco-1{
+	background-color: #cccc;
+	width: 150px;
+	float: left;
+}
+.bloco-2{
+	background-color: #f60;
+	width: 150px;
+	float: left;
+}
+.container{
+	overflow: hidden;
+
+}
