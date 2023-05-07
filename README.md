@@ -7,9 +7,9 @@ Aula04 - Criação de tabelas e um pouco de CSS<br>
 Aula05 - Primeira Aula de CSS, explorando estilos<br>
 Avaliação 1 - Criar um site assim como no exemplo seguindo os requisitos<br>
 Aula06 - Utilização de CSS para criar blocos de estilo na página<br>
-Aula07 -<br>
-Aula08 -<br>
-Aula09 -<br>
+Aula07 - Sem aula<br>
+Aula08 - Aula EAD<br>
+Aula09 - Utilização de CSS para sombras e Divs<br>
 Aula10 -<br>
 Aula11 -<br>
 Aula12 -<br>
